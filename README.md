@@ -18,3 +18,7 @@ George J Stanley
 ## Acknowledgements
 
 Acknowledgements to Jonathan Lanset for linspecer, and to John Iversen for freezeColors.
+
+## DOI
+
+[DOI Badge](https://zenodo.org/badge/latestdoi/177807176)
