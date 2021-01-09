@@ -11,6 +11,8 @@ The project is run from the **Auto_correlation_analysis_kymographs.m** script. I
 
 The results from kymographs recorded at the same scan speed can be loaded into **Average_kymographs_heatmaps.m** to render averaged results.
 
+These scripts were used to for the analysis of stochastically fluctuating intrinsically disordered proteins inside native and synthetic nuclear pore complexes, for a study on nucleocytoplasmic transport. The results from this analysis can be found here: https://pubs.acs.org/doi/full/10.1021/acsnano.9b02424
+
 ## Authors
 
 George J Stanley
